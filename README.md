@@ -1,4 +1,4 @@
-El Cid la Leyenda de un campeón
+#El Cid la Leyenda de un campeón
  
 Es un videojuego del tipo RPG diseñado, desarrollado e implementado en Unity, con C# y el uso de diversos assets gratuitos.
 
